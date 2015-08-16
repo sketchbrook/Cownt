@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Cownt.xcodeproj">
+      location = "self:/Users/jamiebrook/Documents/Developer/Cownt_v2/Cownt/Cownt.xcodeproj">
    </FileRef>
 </Workspace>
